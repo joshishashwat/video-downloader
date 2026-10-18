@@ -1,0 +1,5 @@
+yt-dlp
+customtkinter>=5.2
+pillow
+imageio-ffmpeg
+mutagen

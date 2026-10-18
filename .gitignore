@@ -1,0 +1,12 @@
+# Python environment (recreated by run.bat)
+.venv/
+__pycache__/
+*.pyc
+
+# PyInstaller output (rebuilt by build.bat)
+build/
+dist/
+*.spec
+
+# Logs
+*.log
